@@ -1,5 +1,5 @@
 # Cutlist-premium
-here you can get  a premium version of Cutlist app
+Here You Can Get A Premium Version Of Cutlist App
 
 ----------------------------------------------------------------
 
