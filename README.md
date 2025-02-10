@@ -3,7 +3,7 @@ Here You Can Get A Premium Version Of Cutlist App
 
 ----------------------------------------------------------------
 
-1. First Install Normal Cutlist Exe
+1. First Install Normal Cutlist Exe In Zip file
 2. Then Install Patch Exe
 3. Done !!!!!!!!!! You Can Now Use Premium Features Of Cutlist
 
